@@ -1,0 +1,14 @@
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\RegistroAcademico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\RegistroAcademico.AssemblyInfoInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\RegistroAcademico.AssemblyInfo.cs
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\RegistroAcademico.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\bin\Debug\net6.0\RegistroAcademico.exe
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\bin\Debug\net6.0\RegistroAcademico.deps.json
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\bin\Debug\net6.0\RegistroAcademico.runtimeconfig.json
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\bin\Debug\net6.0\RegistroAcademico.dll
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\bin\Debug\net6.0\RegistroAcademico.pdb
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\RegistroAcademico.dll
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\refint\RegistroAcademico.dll
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\RegistroAcademico.pdb
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\RegistroAcademico.genruntimeconfig.cache
+C:\Users\Gallo\OneDrive\Escritorio\ClasesYObjetos\RegistroAcademico\obj\Debug\net6.0\ref\RegistroAcademico.dll
